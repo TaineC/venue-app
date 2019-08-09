@@ -13,6 +13,7 @@
   border:1px rgba(219,92,67, 1) solid;
   margin:0.5em;
   flex: 1 0 15em;
+  cursor: pointer;
 }
 .venue-name{
   color: rgba(38,113,127, 1);
